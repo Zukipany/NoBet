@@ -22,7 +22,8 @@ Track your streak and money saved, get through urges in real time, and build lay
 > [!NOTE]
 > **The source code of this project is private.** This repository is its public showcase: the
 > README, screenshots and every source file with its types and function signatures, but none of the
-> code inside them. If you'd like a demo or to talk about the project, open an issue.
+> code inside them. For a demo or access to the source code, email me at
+> [christodontchev@gmail.com](mailto:christodontchev@gmail.com).
 
 ---
 
